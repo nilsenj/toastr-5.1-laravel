@@ -78,6 +78,8 @@ return [
     "showMethod" => "fadeIn",
     "hideMethod" => "fadeOut"]
     ];
-    ```
+    
+```
 
+---
 For a list of available options, see [toastr.js' documentation](http://codeseven.github.io/toastr/demo.html).
