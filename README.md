@@ -18,7 +18,7 @@ Link to toastr.js  ```<script src="toastr.js"></script>```
 toastr
 ======
 
-Easy [toastr.js](https://github.com/CodeSeven/toastr) notifications for Laravel 5, a ported version of Laravel 4 Toastr by [kamaln7](https://github.com/kamaln7/toastr)
+Easy [toastr.js](http://codeseven.github.io/toastr/) notifications for Laravel 5.1, a ported version of Laravel 4 Toastr by [kamaln7](https://github.com/kamaln7/toastr)
 
 Installation
 ------------
