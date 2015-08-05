@@ -24,10 +24,10 @@ Installation
 ------------
 
 1. Either run `composer require nilsenj/toastr-5.1-laravel` 
-or add `"nilsenj/toastr-5.1-laravel": "master"` to the `require` key in `composer.json` and run `composer install`
+or add `"nilsenj/toastr-5.1-laravel": "dev-master"` to the `require` key in `composer.json` and run `composer install`
 
-2. Add `'Nilsenj\Toastr\ToastrServiceProvider',` to the `providers` key in `config/app.php`
-3. Add `'Toastr'          => 'Nilsenj\Toastr\Facades\Toastr',` to the `aliases` key in `config/app.php`
+2. Add `'nilsenj\Toastr\ToastrServiceProvider',` to the `providers` key in `config/app.php`
+3. Add `'Toastr'          => 'nilsenj\Toastr\Facades\Toastr',` to the `aliases` key in `config/app.php`
 
 Usage
 -----
