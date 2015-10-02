@@ -38,7 +38,7 @@ after everything is done do
 ``` html
 {!! Toastr::render() !!}
 ```
-in your template.
+in your template just bofore body closing tag or after toastr.js script instantiated in your file.
 
 
 You can use these methods in your controllers to insert a toast:
