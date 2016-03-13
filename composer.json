@@ -1,6 +1,6 @@
 {
     "name": "nilsenj/toastr-5.1-laravel",
-    "description": "toastr.js for Laravel 5.1 easy notification like growl for example",
+    "description": "toastr.js for Laravel 5.1/5.2 easy notification like growl for example",
     "keywords": ["toastr", "notification", "laravel", "php"],
     "homepage": "https://github.com/nilsenj/toastr-5.1-laravel",
     "license": "MIT",
@@ -11,7 +11,7 @@
         }, 
         {
             "name": "Ivan Nikolenko",
-            "email": "ni_cole@i.ua"
+            "email": "nikoleivan@gmail.com"
         }
     ],
     "minimum-stability": "dev",
